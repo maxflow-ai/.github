@@ -1,6 +1,5 @@
 # Maxflow AI
 
-## What is Maxflow AI?
 Maxflow AI is a next-generation business workflow automation platform powered by artificial intelligence. It enables teams to design, optimize, and monitor complex processes with minimal manual effort.
 
 ## Our Mission
